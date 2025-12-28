@@ -140,14 +140,6 @@ During early development, the model experienced **catastrophic collapse**, predi
 
 ---
 
-## 🎯 Future Enhancements
-
-- [ ] Deploy as a web application using TensorFlow.js
-- [ ] Implement real-time digit recognition via webcam
-- [ ] Experiment with deeper architectures (ResNet, EfficientNet)
-- [ ] Add support for the full MNIST dataset (60K training samples)
-
----
 
 ## 👤 Author
 
